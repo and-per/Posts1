@@ -1,0 +1,21 @@
+.PostBox {
+    display: flex;
+    flex-direction: column;
+}
+.PostM {
+    background-color: rgb(142, 139, 139);
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 10px;
+    padding: 5px;
+    
+}
+.PostContent {
+    font-family: "Open Sans", sans-serif;
+}
+
+.PostTitle {
+    font-family: "Inter", sans-serif;
+}
